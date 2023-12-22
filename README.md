@@ -10,11 +10,11 @@ The website can be access at:
 
 ## Step 1 - Create an S3 Bucket
 
-!(Create S3 Bucket)[https://github.com/JustinMckee/AWS-static-website-basics/blob/main/readme-img/1-s3-bucket.png]
+![Create S3 Bucket](https://github.com/JustinMckee/AWS-static-website-basics/blob/main/readme-img/1-s3-bucket.png)
 
 ## Step 2 - Add Files to Bucket
 
-!(Add Files to Bucket)[https://github.com/JustinMckee/AWS-static-website-basics/blob/main/readme-img/2-files.png]
+![Add Files to Bucket](https://github.com/JustinMckee/AWS-static-website-basics/blob/main/readme-img/2-files.png)
 
 The files included are: 
 
@@ -25,12 +25,12 @@ The files included are:
 
 ## Step 3 - Setup the Bucket for Public, Static Hosting
 
-!(Setup the bucket for static website hosting)[https://github.com/JustinMckee/AWS-static-website-basics/blob/main/readme-img/3-bucket-static-hosting.png]
+![Setup the bucket for static website hosting](https://github.com/JustinMckee/AWS-static-website-basics/blob/main/readme-img/3-bucket-static-hosting.png)
 
 ## Step 4 - Add IAM Bucket Permissions
 
-!(Add IAM Bucket policy/permissions)[https://github.com/JustinMckee/AWS-static-website-basics/blob/main/readme-img/4-IAM-bucket-permissions.png]
+![Add IAM Bucket policy/permissions](https://github.com/JustinMckee/AWS-static-website-basics/blob/main/readme-img/4-IAM-bucket-permissions.png)
 
 ## Step 5 - Deploy Cloudfront Distribution
 
-!(Deploy Cloudfront Distribution)[https://github.com/JustinMckee/AWS-static-website-basics/blob/main/readme-img/5-cloudfront.png]
+![Deploy Cloudfront Distribution](https://github.com/JustinMckee/AWS-static-website-basics/blob/main/readme-img/5-cloudfront.png)
